@@ -1,0 +1,8 @@
+date,product,quantity,unit_price,region,salesperson
+2024-01-15,Laptop,2,1200,North,Alice
+2024-01-16,Mouse,10,25,South,Bob
+2024-01-17,Keyboard,5,75,East,Charlie
+2024-01-18,Monitor,3,450,West,Alice
+2024-01-19,Laptop,1,1200,South,Bob
+2024-01-20,Mouse,INVALID,25,North,Charlie
+2024-01-21,Keyboard,8,75,South,Alice

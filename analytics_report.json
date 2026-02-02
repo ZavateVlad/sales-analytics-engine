@@ -1,0 +1,60 @@
+{
+  "total_revenue": 6175.0,
+  "average_order_value": 1029.1666666666667,
+  "high_value_orders": [
+    {
+      "date": "2024-01-15",
+      "product": "Laptop",
+      "quantity": 2,
+      "unit_price": 1200.0,
+      "region": "North",
+      "salesperson": "Alice",
+      "revenue": 2400.0
+    },
+    {
+      "date": "2024-01-18",
+      "product": "Monitor",
+      "quantity": 3,
+      "unit_price": 450.0,
+      "region": "West",
+      "salesperson": "Alice",
+      "revenue": 1350.0
+    },
+    {
+      "date": "2024-01-19",
+      "product": "Laptop",
+      "quantity": 1,
+      "unit_price": 1200.0,
+      "region": "South",
+      "salesperson": "Bob",
+      "revenue": 1200.0
+    }
+  ],
+  "revenue_by_region": {
+    "South": 2050.0,
+    "East": 375.0,
+    "North": 2400.0,
+    "West": 1350.0
+  },
+  "revenue_by_product": {
+    "Mouse": 250.0,
+    "Laptop": 3600.0,
+    "Keyboard": 975.0,
+    "Monitor": 1350.0
+  },
+  "top_products": [
+    [
+      "Laptop",
+      3600.0
+    ],
+    [
+      "Monitor",
+      1350.0
+    ],
+    [
+      "Keyboard",
+      975.0
+    ]
+  ],
+  "top_salesperson": "Alice"
+}
